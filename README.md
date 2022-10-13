@@ -1,1 +1,1 @@
-# AI-classification
+# ai-classification
